@@ -1,0 +1,19 @@
+{
+  "obsidian-map-view:add-frontmatter-geolocation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-map-view:insert-geolink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ]
+}

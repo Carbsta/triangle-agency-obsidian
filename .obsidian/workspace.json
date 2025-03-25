@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "656e4ec33c86213f",
+    "type": "split",
+    "children": [
+      {
+        "id": "263a1e52bcc4300b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e04248a0e4d194d1",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.713955826286046,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off"
+              },
+              "icon": "map-pin",
+              "title": "Interactive Map View"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ebddbd92a19d235",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1400607499e03b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "536d172cb798ba27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "375edfeac42b5b13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23f0fd28fb8b6770",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "847fa648e9e33dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edc5162860a3eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf13e47fd79297d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nottingham Branch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nottingham Branch"
+            }
+          },
+          {
+            "id": "b814a180846b83c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nottingham Branch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nottingham Branch"
+            }
+          },
+          {
+            "id": "5f9bf293389353d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c3f52bce16781f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nottingham Branch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nottingham Branch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e04248a0e4d194d1",
+  "lastOpenFiles": [
+    "Avery Hopkins.md",
+    "Ice Cream Anomaly.md",
+    "Loose Ends.md",
+    "ice-cream pool party.md",
+    "33 Chilwell Road, Beeston - SORA Cafe.md",
+    "The Icebreaker.md",
+    "Mysterious Ice Cream Truck.md",
+    "Kaeleigh \"K\".md",
+    "Anomalies.md",
+    "Nottingham Branch Arial View.excalidraw.md",
+    "Triangle Agency Nottingham.md",
+    "Tryptik Café.md",
+    "Nottingham Branch.md",
+    "Missions.md",
+    "FOUNT - medispa.md",
+    "Field Agents.md",
+    "Pasted image 20250317165035.png",
+    "Weather Events Record.md",
+    "Field Team 3.md",
+    "Nottingham.md",
+    "Formatting.md",
+    "Location added on 2025-03-17T13-41.md",
+    "Location added on 2025-03-17T13-40.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
