@@ -124,7 +124,7 @@
     }
   ],
   "mapControls": {
-    "minimized": true,
+    "minimized": false,
     "filtersDisplayed": true,
     "viewDisplayed": true,
     "linksDisplayed": false,
@@ -149,7 +149,7 @@
     }
   ],
   "frontMatterKey": "location",
-  "chosenMapMode": "light",
+  "chosenMapMode": "dark",
   "saveHistory": true,
   "letZoomBeyondMax": false,
   "queryForFollowActiveNote": "path:\"$PATH$\"",

@@ -1,5 +1,7 @@
 [
   "obsidian-map-view",
   "css-inlay-colors",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "obsidian-dice-roller"
 ]

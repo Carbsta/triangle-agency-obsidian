@@ -5,3 +5,6 @@ I will record information about the [[Field Agents]], [[Anomalies]], [[Relations
 Also I'll try to jot down any [[Weird Stuff in Nottingham]] that I encounter to potentially turn into the above categories of content and as inspiration. Notes will contain a geolocation to place them within [[Nottingham]].
 
 I'll record any campaign [[Timelines]] or [[Tracks]] as required.
+
+Standard dice roll. Counts number of threes:
+`dice: (1d4=3)+(1d4=3)+(1d4=3)+(1d4=3)+(1d4=3)+(1d4=3)|render`

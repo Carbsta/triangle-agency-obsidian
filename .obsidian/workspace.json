@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "263a1e52bcc4300b",
+        "id": "7fe1b59b02b0bb8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e04248a0e4d194d1",
+            "id": "92be1b797d86d565",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 1,
-                "mapCenter": {
-                  "lat": 40.713955826286046,
-                  "lng": -180.70312500000003
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off"
+                "file": "Triangle Agency Nottingham.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Triangle Agency Nottingham"
             }
           }
         ]
@@ -164,6 +150,16 @@
               "icon": "lucide-list",
               "title": "Outline of Nottingham Branch"
             }
+          },
+          {
+            "id": "e02fea582116945a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       }
@@ -181,32 +177,88 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e04248a0e4d194d1",
+  "floating": {
+    "id": "7fa2e06423f62264",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cc70121ecf0b9d24",
+        "type": "window",
+        "children": [
+          {
+            "id": "1378f9e395ba3365",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "350410c3211f77a0",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://plugins.javalent.com/admonitions",
+                    "title": "Admonitions -",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Admonitions -"
+                }
+              },
+              {
+                "id": "15b93d7fb4eb0778",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://plugins.javalent.com/dice/flags",
+                    "title": "Dice Flags -",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Dice Flags -"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 466,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "15b93d7fb4eb0778",
   "lastOpenFiles": [
+    "Triangle Agency Nottingham.md",
     "Avery Hopkins.md",
+    "Field Agents.md",
+    "Untitled.canvas",
+    "33 Chilwell Road, Beeston - SORA Cafe.md",
+    "Anomalies.md",
+    "Formatting.md",
     "Ice Cream Anomaly.md",
     "Loose Ends.md",
     "ice-cream pool party.md",
-    "33 Chilwell Road, Beeston - SORA Cafe.md",
     "The Icebreaker.md",
     "Mysterious Ice Cream Truck.md",
     "Kaeleigh \"K\".md",
-    "Anomalies.md",
     "Nottingham Branch Arial View.excalidraw.md",
-    "Triangle Agency Nottingham.md",
     "Tryptik Café.md",
     "Nottingham Branch.md",
     "Missions.md",
     "FOUNT - medispa.md",
-    "Field Agents.md",
     "Pasted image 20250317165035.png",
     "Weather Events Record.md",
     "Field Team 3.md",
     "Nottingham.md",
-    "Formatting.md",
     "Location added on 2025-03-17T13-41.md",
     "Location added on 2025-03-17T13-40.md",
     "Welcome.md",
