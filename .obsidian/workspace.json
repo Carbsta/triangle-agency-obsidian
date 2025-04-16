@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Team 3.md",
+                "file": "Kaeleigh \"K\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Field Team 3"
+              "title": "Kaeleigh \"K\""
+            }
+          },
+          {
+            "id": "9d79764dce388948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nottingham Branch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nottingham Branch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +185,16 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "a1839e5aa698144d",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {},
+              "icon": "pie-chart",
+              "title": "Progress Clocks"
+            }
           }
         ]
       }
@@ -181,15 +216,62 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "92be1b797d86d565",
+  "floating": {
+    "id": "5a5099d0f917f3ea",
+    "type": "floating",
+    "children": [
+      {
+        "id": "99ed1533a22662d2",
+        "type": "window",
+        "children": [
+          {
+            "id": "24224c8d65e97bee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "763f62252f6bbba2",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/tokenshift/obsidian-progress-clocks",
+                    "title": "GitHub - tokenshift/obsidian-progress-clocks: Progress clocks and other useful widgets for https://obsidian.md/.",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - tokenshift/obsidian-progress-clocks: Progress clocks and other useful widgets for https://obsidian.md/."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 156,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "536d172cb798ba27",
   "lastOpenFiles": [
+    "Attachments/Nottingham Branch Arial View.excalidraw.md",
+    "Orville.md",
+    "Attachments/IMG_0486.jpeg",
     "Kaeleigh \"K\".md",
+    "Attachments/Kaeleigh_Headshot_Coloured.png",
+    "Attachments",
+    "Gregory.md",
+    "Mickey.md",
+    "Jenny Drops.md",
     "Field Team 3.md",
+    "33 Chilwell Road, Beeston - SORA Cafe.md",
     "Avery Hopkins.md",
     "Triangle Agency Nottingham.md",
     "Field Agents.md",
     "Untitled.canvas",
-    "33 Chilwell Road, Beeston - SORA Cafe.md",
     "Anomalies.md",
     "Formatting.md",
     "Ice Cream Anomaly.md",
@@ -197,7 +279,6 @@
     "ice-cream pool party.md",
     "The Icebreaker.md",
     "Mysterious Ice Cream Truck.md",
-    "Nottingham Branch Arial View.excalidraw.md",
     "Tryptik Café.md",
     "Nottingham Branch.md",
     "Missions.md",
@@ -205,9 +286,6 @@
     "Pasted image 20250317165035.png",
     "Weather Events Record.md",
     "Nottingham.md",
-    "Location added on 2025-03-17T13-41.md",
-    "Location added on 2025-03-17T13-40.md",
-    "Welcome.md",
-    "create a link.md"
+    "Location added on 2025-03-17T13-41.md"
   ]
 }
