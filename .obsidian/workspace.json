@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triangle Agency Nottingham.md",
+                "file": "Field Team 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Triangle Agency Nottingham"
+              "title": "Field Team 3"
             }
           }
         ]
@@ -181,64 +181,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "7fa2e06423f62264",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cc70121ecf0b9d24",
-        "type": "window",
-        "children": [
-          {
-            "id": "1378f9e395ba3365",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "350410c3211f77a0",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://plugins.javalent.com/admonitions",
-                    "title": "Admonitions -",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Admonitions -"
-                }
-              },
-              {
-                "id": "15b93d7fb4eb0778",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://plugins.javalent.com/dice/flags",
-                    "title": "Dice Flags -",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Dice Flags -"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 466,
-        "y": 140,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "15b93d7fb4eb0778",
+  "active": "92be1b797d86d565",
   "lastOpenFiles": [
-    "Triangle Agency Nottingham.md",
+    "Kaeleigh \"K\".md",
+    "Field Team 3.md",
     "Avery Hopkins.md",
+    "Triangle Agency Nottingham.md",
     "Field Agents.md",
     "Untitled.canvas",
     "33 Chilwell Road, Beeston - SORA Cafe.md",
@@ -249,7 +197,6 @@
     "ice-cream pool party.md",
     "The Icebreaker.md",
     "Mysterious Ice Cream Truck.md",
-    "Kaeleigh \"K\".md",
     "Nottingham Branch Arial View.excalidraw.md",
     "Tryptik Café.md",
     "Nottingham Branch.md",
@@ -257,7 +204,6 @@
     "FOUNT - medispa.md",
     "Pasted image 20250317165035.png",
     "Weather Events Record.md",
-    "Field Team 3.md",
     "Nottingham.md",
     "Location added on 2025-03-17T13-41.md",
     "Location added on 2025-03-17T13-40.md",

@@ -4,9 +4,13 @@ A group of three [[Field Agents]].
 
 Their General Manager is [[Avery Hopkins]].
 
-The three field agents:
+The four field agents:
 
 [[Kaeleigh "K"]]
+
+Henry - Business Podcaster Grindset Lady. Chivonne Peters. "Soulful. Productive. You."
+
+
 
 
 
