@@ -1,5 +1,3 @@
-#relationship
-###### Connection
-`counter 3`
+#relationship 
 
 Unpaid editor for [[Kaeleigh "K"]]

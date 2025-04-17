@@ -8,7 +8,12 @@ Impromptu, location only determined today - now at [[33 Chilwell Road, Beeston -
 
 Main attraction is the trendy ice-cream.
 
-Crowd is not too large - couple dozen.
+Crowd is not too large - couple dozen real creamfreaks.
+
+People will be ordering and enjoying ice-cream throughout the party.
+**Point out to the agents that folks are ordering from this truck**
+[[Orville Herring]] - the goody-two-shoes
+Are they just going to let that happen? How can they avoid Loose Ends but keep people from getting iced? If they're too obvious about their intentions, though, the truck will speed away to escape!
 
 **How do the agents fit in?** Folks here are dressed for the heat, swimwear, plunging into the pool etc.
 
@@ -21,8 +26,6 @@ Possible scenes:
 - Folks might gossip that they've never seen the guy inside but speculate about the hand that serves.
 - Someone saw someone get let into the truck - they haven't seen them come out yet though???
 
-People will be ordering and enjoying ice-cream throughout the party.
-**Point out to the agents that folks are ordering from this truck**
 
 #### After the agents have settled into the party - **start freezing people**
 tell tale situations of heat:

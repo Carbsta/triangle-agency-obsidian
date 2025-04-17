@@ -1,6 +1,4 @@
 #relationship
-###### Connection
-`counter 6`
 ###### Details
 Brand manager / agent / and "Fame Coach" Hooks up [[Kaeleigh "K"]] and many other influencers with product deals, promotional items, brand sponsorships etc in return for a hefty cut of revenue and with a demanding schedule of content required from her "associates"
 
