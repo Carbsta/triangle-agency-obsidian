@@ -1,3 +1,3 @@
 #relationship 
 
-Unpaid editor for [[Kaeleigh "K"]]
+Unpaid editor for [[Kaeleigh "K" Merel]]

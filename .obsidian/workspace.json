@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "379eb0c44485d18f",
+        "id": "caa82487e79f5a52",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e779a907ad62c1",
+            "id": "03375724458cb6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "The Icebreaker"
+            }
+          },
+          {
+            "id": "9ca75e7233a19087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubra Omowale.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kubra Omowale"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:the-icebreaker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -106,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Icebreaker.md",
+                "file": "Attachments/missionreport.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Icebreaker"
+              "title": "Backlinks for missionreport"
             }
           },
           {
@@ -200,42 +223,46 @@
       "command-palette:Open command palette": false,
       "obsidian-map-view:Open map view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3e779a907ad62c1",
+  "active": "03375724458cb6b6",
   "lastOpenFiles": [
-    "Destiny Summer.md",
+    "Excalidraw/IceBreakerMissionReport.excalidraw.md",
     "The Icebreaker.md",
-    "Kelb Cambrian.md",
-    "ice-cream pool party.md",
-    "33 Chilwell Road, Beeston - SORA Cafe.md",
-    "Mysterious Ice Cream Truck.md",
-    "Kaeleigh \"K\".md",
-    "Orville Herring.md",
-    "Nottingham Branch.md",
-    "33 The Friary, Lenton (Gregory Street).md",
-    "Chivonne Inpu.md",
-    "Local Buisness Owner.md",
-    "Roomate.md",
-    "Field Team 3.md",
-    "Downwards Facing Dawg.md",
-    "Gregory.md",
-    "Mickey.md",
-    "Jenny Drops.md",
-    "Attachments/Nottingham Branch Arial View.excalidraw.md",
-    "Attachments/IMG_0486.jpeg",
-    "Attachments/Kaeleigh_Headshot_Coloured.png",
-    "Attachments",
-    "Avery Hopkins.md",
-    "Triangle Agency Nottingham.md",
-    "Field Agents.md",
-    "Untitled.canvas",
-    "Anomalies.md",
-    "Formatting.md",
-    "Ice Cream Anomaly.md",
+    "Kubra Omowale.md",
+    "Icebreaker - Loose Ends.md",
     "Loose Ends.md",
+    "The Icebreaker - Mission Report.md",
+    "Attachments/missionreport.pdf",
+    "Excalidraw/Drawing 2025-04-22 00.29.04.excalidraw.md",
+    "Triangle Agency Nottingham.md",
+    "Weather Events Record.md",
+    "Tryptik Café.md",
+    "Attachments/Kaeleigh_Headshot_Coloured.png",
+    "Attachments/Nottingham Branch Arial View.excalidraw.md",
+    "ice-cream pool party.md",
+    "Untitled.canvas",
+    "Mysterious Ice Cream Truck.md",
+    "Attachments/missionreport 1.pdf",
+    "Attachments/Pasted image 20250421133206.png",
+    "Attachments/Drawing 2025-04-22 00.32.12.excalidraw.md",
+    "Attachments/missionreport.png",
+    "Excalidraw",
+    "Ice Cream Anomaly.md",
+    "Chaos.md",
+    "33 Chilwell Road, Beeston - SORA Cafe.md",
+    "Missions.md",
+    "Orville Herring.md",
+    "Kelb Cambrian.md",
+    "Eevesijika.md",
+    "Kaeleigh \"K\" Merel.md",
+    "Destiny Summer.md",
+    "Chivonne Inpu.md",
+    "Field Team 3.md",
+    "Field Agents.md",
+    "Attachments/IMG_0486.jpeg",
+    "Attachments",
     "Pasted image 20250317165035.png"
   ]
 }

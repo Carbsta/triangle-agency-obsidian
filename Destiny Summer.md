@@ -13,3 +13,9 @@ If you reveal your new identity or location to people who would recognise you, m
 ###### Caught
 `clock 0/4`
 #### Relationships
+
+[[Granny Clementine]] - would be hurt most to find out the truth
+
+[[Obsessed Roommate - Cathy]] - who is obsessed with the new you.
+
+[[Ice Cream Shop Boss - Randal Ballad]] - 

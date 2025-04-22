@@ -7,7 +7,7 @@ Their General Manager is [[Avery Hopkins]].
 
 The four field agents:
 
-[[Kaeleigh "K"]]
+[[Kaeleigh "K" Merel]]
 
 [[Kelb Cambrian]]
 
