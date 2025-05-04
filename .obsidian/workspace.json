@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Icebreaker.md",
+                "file": "Anomalies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Icebreaker"
+              "title": "Anomalies"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,9 +227,11 @@
   },
   "active": "03375724458cb6b6",
   "lastOpenFiles": [
-    "Excalidraw/IceBreakerMissionReport.excalidraw.md",
+    "Anomaly Ideas.md",
+    "Anomalies.md",
     "The Icebreaker.md",
     "Kubra Omowale.md",
+    "Excalidraw/IceBreakerMissionReport.excalidraw.md",
     "Icebreaker - Loose Ends.md",
     "Loose Ends.md",
     "The Icebreaker - Mission Report.md",
@@ -259,8 +260,6 @@
     "Kaeleigh \"K\" Merel.md",
     "Destiny Summer.md",
     "Chivonne Inpu.md",
-    "Field Team 3.md",
-    "Field Agents.md",
     "Attachments/IMG_0486.jpeg",
     "Attachments",
     "Pasted image 20250317165035.png"
