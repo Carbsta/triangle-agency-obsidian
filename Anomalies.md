@@ -12,6 +12,12 @@ The focus fuels the anomaly because human's thinking about related thoughts woul
 Quality of the *feeling* can help create the *Impulse.*
 Location of the *subject* often is the location of the *Domain*
 
+Relationship between anomalies and mundane people is symbiotic - but not all anomalies, especially young ones are going to understand that, which can make those anomalies dangerous.
+Anomalies don't inherently *know* their focus! They are feeling things out! They can observe what feeds them as a result of their actions.
+Don't *need* to figure out the focus upfront as the GM either - can go via building them from interesting impulses, and the anomaly is discovering its focus.
+
+Ancient anomalies - focuses often primal and powerful. Gravity? Death? Luck? Won't be beatable via ripple gun or briefcase - and agency would rather not mess with them, or uses them to get agents killed.
+
 Anomalies sustain resonant with this energy as the resonant uses their powers - can describe players feeling less hungry as their powers grow? Player's powers and effects should be related to those anomalies focus - creating the desired thoughts in subjects / onlookers of the powers. Feeding on loose ends! I should portray player's anomalies as being satiated by them creating loose ends / people observing its focus.
 
 Domains should be where these observations are the strongest / have sustained fuelling the anomaly for a long enough time to suffuse objects/the location -  where the anomaly "haunts"
