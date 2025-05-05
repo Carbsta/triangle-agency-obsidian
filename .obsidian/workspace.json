@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anomalies.md",
+                "file": "Infinite Carnival Anomaly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anomalies"
+              "title": "Infinite Carnival Anomaly"
+            }
+          },
+          {
+            "id": "33c00bbc487598ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage Unit Anomaly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Storage Unit Anomaly"
+            }
+          },
+          {
+            "id": "c10e2019ef930f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existential Crisis Anomaly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Existential Crisis Anomaly"
             }
           },
           {
@@ -228,6 +276,9 @@
   "active": "03375724458cb6b6",
   "lastOpenFiles": [
     "Anomaly Ideas.md",
+    "Infinite Carnival Anomaly.md",
+    "Storage Unit Anomaly.md",
+    "Existential Crisis Anomaly.md",
     "Anomalies.md",
     "The Icebreaker.md",
     "Kubra Omowale.md",
@@ -257,9 +308,6 @@
     "Orville Herring.md",
     "Kelb Cambrian.md",
     "Eevesijika.md",
-    "Kaeleigh \"K\" Merel.md",
-    "Destiny Summer.md",
-    "Chivonne Inpu.md",
     "Attachments/IMG_0486.jpeg",
     "Attachments",
     "Pasted image 20250317165035.png"
