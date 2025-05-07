@@ -1,7 +1,10 @@
 ---
-location: 52.954313302421994,-1.1477091908454897
+location: 52.9564548633009,-1.1498353629088
 tags:
   - springs-eternal
   - mission
+  - "#anomaly"
 ---
 
+# Exterior
+Impossibly clean

@@ -17,9 +17,9 @@ If you change something about yourself to fit into the world, mark the next box 
 #### Relationships
 [[Chivonne Inpu]] - your favourite teacher. Ex-CEO of Cambrian Nurseries, now runs a hustle culture self help podcast. (Portrayed by me)
 
-[[Local Buisness Owner]] - relies on unique perspective. Owner of [[Downwards Facing Dawg]]
+[[Olivia Barns]] - relies on unique perspective. Owner of [[Downwards Facing Dawg]]
 
-[[Roomate]] - takes advantage of naivete 
+[[Baron Everly]] - takes advantage of naivete 
 
 
 
