@@ -1,9 +1,11 @@
-#downtime #the-icebreaker 
+#downtime #the-icebreaker
 
 [[Orville Herring]] - Break Room scene, first time describing someone be brought back by the agency.
+
 ### Post mission scenes:
+
 [[Destiny Summer]] MVP - short scene celebrating her awards and receiving the socks of success.
-[[Kaeleigh "K" Merel]] Probation - short scene receiving her punishment and the red flag of disrepute - Ask what menial tasks she does as part of her probation, and have a short bit of interaction with her [[Whisper]]. Whisper tunes in about the boring probation work, and starts messing with what other people are saying.
+[[Kaeleigh Merel]] Probation - short scene receiving her punishment and the red flag of disrepute - Ask what menial tasks she does as part of her probation, and have a short bit of interaction with her [[Whisper]]. Whisper tunes in about the boring probation work, and starts messing with what other people are saying.
 
 Prompt players if they would like to spend any commendations on requisitions, or if they have already.
 
@@ -12,7 +14,7 @@ Prompt players if they would like to spend any commendations on requisitions, or
 
 ### Time Spent
 
-[[Kaeleigh "K" Merel]] spending time with [[Mickey]] - increasing connection for the first time. What does Mickey need from K for a change?
+[[Kaeleigh Merel]] spending time with [[Mickey]] - increasing connection for the first time. What does Mickey need from K for a change?
 
 [[Destiny Summer]] spending time with [[Ice Cream Shop Boss - Randal Ballad]] - increasing connection for the first time. What does Randal want to congratulate Destiny about?
 

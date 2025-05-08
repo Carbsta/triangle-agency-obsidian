@@ -1,3 +1,3 @@
-#anomaly #player-character 
+#anomaly #player-character
 
-[[Kaeleigh "K" Merel]]'s bonded anomaly.
+[[Kaeleigh Merel]]'s bonded anomaly.

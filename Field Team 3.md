@@ -7,15 +7,10 @@ Their General Manager is [[Avery Hopkins]].
 
 The four field agents:
 
-[[Kaeleigh "K" Merel]]
+[[Kaeleigh Merel]]
 
 [[Kelb Cambrian]]
 
 [[Destiny Summer]]
 
 [[Orville Herring]]
-
-
-
-
-
