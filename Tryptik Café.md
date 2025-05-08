@@ -19,4 +19,4 @@ If the agents befriend a barista or awkwardly eavesdrop:
 	The people making the apologies are expressing a fear of losing the other person forever as a result.
 - Five Elderly men and women have spread a pile of photos across a table. They pause to lovingly reminisce over their favourites. Looking closely at the photos reveals them to be blurry pictures of vacuum cleaners, fridges, walls, the ground and other random household objects.
 - A group of friends are crowding for a selfie, which they delete and retake after seeing the result - again, and again and again
-- the Forget-Me-Not pea flower additive is from [[FOUNT - medispa]] across the road, who had a surplus.
+- the Forget-Me-Not pea flower additive is from [[FOUNT]] across the road, who had a surplus.

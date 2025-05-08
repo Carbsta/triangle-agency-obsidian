@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7b62daed455d7e8d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20250508092017.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250508092017"
+            }
+          },
+          {
             "id": "cb697a11f32974df",
             "type": "leaf",
             "state": {
@@ -83,8 +95,7 @@
               "title": "Tryptik Café"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9e122331f0522f42",
@@ -96,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOUNT - medispa.md",
+                "file": "FOUNT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -111,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FOUNT - medispa"
+              "title": "FOUNT"
             }
           },
           {
@@ -310,12 +321,17 @@
   },
   "active": "2519d709b79b4a5a",
   "lastOpenFiles": [
+    "Quinn Wilmar.md",
+    "FOUNT.md",
+    "Indigo Jones.md",
+    "Springs Eternal.md",
+    "Attachments/Pasted image 20250508092204.png",
+    "Attachments/Pasted image 20250508092017.png",
+    "Jay Hsieh.md",
     "Tryptik Café.md",
     "Baron Everly.md",
     "Trinity Square.md",
     "Attachments/Pasted image 20250507225627.png",
-    "FOUNT - medispa.md",
-    "Springs Eternal.md",
     "Passionfruit Anomaly.md",
     "Olive Huyhn.md",
     "Passionfruit Anomaly Chaos Effects.md",
@@ -335,8 +351,6 @@
     "Ice Cream Shop Boss - Randal Ballad.md",
     "Obsessed Roommate - Cathy.md",
     "Granny Clementine.md",
-    "Olivia Barns.md",
-    "Chivonne Inpu.md",
     "Attachments/missionreport.pdf",
     "Attachments/Kaeleigh_Headshot_Coloured.png",
     "Untitled.canvas",

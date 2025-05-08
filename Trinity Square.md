@@ -9,7 +9,7 @@ People are engaged in unusually loud, intense conversations under the green and 
 
 There is a woman crouched on the ground, staring into a puddle in the middle of the street.
 
-Meanwhile, a small crowd is gathering outside of [[FOUNT - medispa]]. A Luxury medispa across the street from Tryptik. A man and woman are arguing in the doorway.
+Meanwhile, a small crowd is gathering outside of [[FOUNT]]. A Luxury medispa across the street from Tryptik. A man and woman are arguing in the doorway.
 
 ### Maya and the Puddle
 Maya Ng (Eng) (She/Her) is crouching on the street - examining her reflection in a puddle. She's poking at her cheeks and neck. She's wearing a professional beige suit with her hair pinned back.

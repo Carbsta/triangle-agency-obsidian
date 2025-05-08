@@ -20,7 +20,7 @@ The advent of social media and fear of aging caused it to flourish again, growin
 
 Serena knew this was no ordinary plant. Once a curious tendril ensnared her finger they bonded in that moment, understanding each other. She felt its sadness, its longing for its ancestral home and shared in it. She was also looking for her roots. The Anomaly felt like it knew her, but couldn't remember why.
 
-The anomaly trusted Serena - trusting that she could help it remember its past. It willingly came to [[FOUNT - medispa]]. The product development team built it a special enclosure to thrive in.
+The anomaly trusted Serena - trusting that she could help it remember its past. It willingly came to [[FOUNT]]. The product development team built it a special enclosure to thrive in.
 Over the years they have developed sustainable ways to distil its sap, fruits and leaves into potent products - powerful rejuvenating properties. But they have made no progress in finding it a new home.
 
 Serena has not kept her promise. Its restless. Its waited years - and is ready to take action.
