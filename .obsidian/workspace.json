@@ -67,8 +67,8 @@
                 "linkColor": "red",
                 "markerLabels": "off"
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -102,12 +102,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2519d709b79b4a5a",
+            "id": "f2eede2787cff7bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOUNT.md",
+                "file": "FOUNT Shop and Reception.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FOUNT"
+              "title": "FOUNT Shop and Reception"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relationship",
+                "query": "tag:#fount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,11 +202,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -285,12 +287,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a1839e5aa698144d",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "76eb2145ac65b93f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "a1839e5aa698144d",
+            "id": "b11e1c49874077e4",
             "type": "leaf",
             "state": {
               "type": "PROGRESS_CLOCKS_VIEW",
@@ -319,10 +341,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2519d709b79b4a5a",
+  "active": "f2eede2787cff7bf",
   "lastOpenFiles": [
-    "Quinn Wilmar.md",
     "FOUNT.md",
+    "FOUNT Exterior.md",
+    "Trinity Square.md",
+    "FOUNT Shop and Reception.md",
+    "Quinn Wilmar.md",
     "Indigo Jones.md",
     "Springs Eternal.md",
     "Attachments/Pasted image 20250508092204.png",
@@ -330,7 +355,6 @@
     "Jay Hsieh.md",
     "Tryptik Café.md",
     "Baron Everly.md",
-    "Trinity Square.md",
     "Attachments/Pasted image 20250507225627.png",
     "Passionfruit Anomaly.md",
     "Olive Huyhn.md",
@@ -349,8 +373,6 @@
     "Kirsty.md",
     "Destiny Summer.md",
     "Ice Cream Shop Boss - Randal Ballad.md",
-    "Obsessed Roommate - Cathy.md",
-    "Granny Clementine.md",
     "Attachments/missionreport.pdf",
     "Attachments/Kaeleigh_Headshot_Coloured.png",
     "Untitled.canvas",
