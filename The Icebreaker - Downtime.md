@@ -2,6 +2,10 @@
 
 [[Orville Herring]] - Break Room scene, first time describing someone be brought back by the agency.
 
+[[Socks of Success]]
+
+[[The Red Flag of Disrepute]]
+
 ### Post mission scenes:
 
 [[Destiny Summer]] MVP - short scene celebrating her awards and receiving the socks of success.

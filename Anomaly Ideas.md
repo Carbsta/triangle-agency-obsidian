@@ -23,7 +23,7 @@ Storage Unit anomaly. Attachment to Old Belongings. Refusal to let go? Trapping.
 Anomaly that does 10 Harm to everyone who looks at it directly - Impulse, Be Seen. Be broadcast on local television? Maybe finding out its focus. 10 harm is obscenely cosmically powerful.
 [[Existential Crisis Anomaly]]
 
-Time Loop anomaly
+[[Time Loop anomaly]] - The Village of the Day Before for Dragonbane, Observer Effect - Delta Green.
 
 
 

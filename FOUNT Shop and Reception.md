@@ -21,5 +21,5 @@ At the back of the storefront is the reception area.
 
 ### Reception
 
-The receptionist sad behind a half circle desk holding a tablet. She is sitting like a tranquil enigma, her unisex jumpsuit tailored just so. Her face is oddly familar.
+The receptionist sad behind a half circle desk holding a tablet. She is sitting like a tranquil enigma, her unisex jumpsuit tailored just so. Her face is oddly familiar.
 [[Serena Evermore]] (she/her)

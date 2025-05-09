@@ -4,100 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "caa82487e79f5a52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "67feed4927d2ac7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Springs Eternal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Springs Eternal"
-            }
-          },
-          {
-            "id": "7b62daed455d7e8d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20250508092017.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250508092017"
-            }
-          },
-          {
-            "id": "cb697a11f32974df",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 19,
-                "mapCenter": {
-                  "lat": 52.95609069564848,
-                  "lng": -1.1496052511951362
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a15a2f96c71b3ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tryptik Café.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tryptik Café"
-            }
-          }
-        ]
-      },
-      {
         "id": "9e122331f0522f42",
         "type": "tabs",
         "children": [
@@ -107,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOUNT Shop and Reception.md",
+                "file": "Time Loop anomaly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FOUNT Shop and Reception"
+              "title": "Time Loop anomaly"
             }
           },
           {
@@ -147,6 +53,82 @@
               },
               "icon": "lucide-file",
               "title": "Trinity Square"
+            }
+          },
+          {
+            "id": "fda25f3fa9704621",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 19,
+                "mapCenter": {
+                  "lat": 52.9561537747791,
+                  "lng": -1.1494284868240359
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off"
+              },
+              "icon": "map-pin",
+              "title": "Interactive Map View"
+            }
+          },
+          {
+            "id": "47dccc8d78deb4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reality Triggers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reality Triggers"
+            }
+          },
+          {
+            "id": "0ee48489691537e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passionfruit Anomaly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Passionfruit Anomaly"
             }
           }
         ]
@@ -202,13 +184,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -343,36 +323,36 @@
   },
   "active": "f2eede2787cff7bf",
   "lastOpenFiles": [
-    "FOUNT.md",
-    "FOUNT Exterior.md",
+    "Anomaly Ideas.md",
+    "Time Loop anomaly.md",
+    "Jay Hsieh.md",
+    "Passionfruit Anomaly.md",
+    "Reality Triggers.md",
     "Trinity Square.md",
     "FOUNT Shop and Reception.md",
+    "FOUNT.md",
+    "FOUNT Clinic.md",
+    "Springs Eternal.md",
+    "Eevesijika.md",
+    "Chivonne Inpu.md",
+    "The Icebreaker - Downtime.md",
+    "Mickey.md",
+    "Orville Herring.md",
+    "The Icebreaker.md",
+    "Excalidraw/IceBreakerMissionReport.excalidraw.md",
+    "The Red Flag of Disrepute.md",
+    "Socks of Success.md",
+    "FOUNT Exterior.md",
     "Quinn Wilmar.md",
     "Indigo Jones.md",
-    "Springs Eternal.md",
     "Attachments/Pasted image 20250508092204.png",
     "Attachments/Pasted image 20250508092017.png",
-    "Jay Hsieh.md",
     "Tryptik Café.md",
     "Baron Everly.md",
     "Attachments/Pasted image 20250507225627.png",
-    "Passionfruit Anomaly.md",
     "Olive Huyhn.md",
     "Passionfruit Anomaly Chaos Effects.md",
     "Attachments/Pasted image 20250507220041.png",
-    "Orville Herring.md",
-    "Kelb Cambrian.md",
-    "Kaeleigh \"K\" Merel.md",
-    "Jenny Drops.md",
-    "Gregory.md",
-    "Downwards Facing Dawg.md",
-    "Kubra Omowale.md",
-    "Field Team 3.md",
-    "Eevesijika.md",
-    "Drew.md",
-    "Kirsty.md",
-    "Destiny Summer.md",
-    "Ice Cream Shop Boss - Randal Ballad.md",
     "Attachments/missionreport.pdf",
     "Attachments/Kaeleigh_Headshot_Coloured.png",
     "Untitled.canvas",
