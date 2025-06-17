@@ -21,7 +21,7 @@ From listening and speaking to Indigo:
 
 ### Undercover Investigator
 There is a conspicuously out-of-place man here, in business formal.
-[[Gregory Doppler]] (he/him) is an undercover OPSS (Office for Product Safety and Standards) investigator.
+[[Gregory Doppler (Jeffrey Fizeau)]] (he/him) is an undercover OPSS (Office for Product Safety and Standards) investigator.
 He's made an appointment under the fake name *Jeffrey Fizeau*
 
 He looks like he's nervously looking for a way around this crowd to sneak into the building, and is sweating profusely.

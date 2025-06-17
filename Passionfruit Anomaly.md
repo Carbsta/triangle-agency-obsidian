@@ -18,7 +18,7 @@ The advent of social media and fear of aging caused it to flourish again, growin
 
 [[Olive Huyhn]] (who-wyn) caught wind of the discovery of this strange plant, and managed to lay claim to it and get [[Serena Evermore]] to colllect it from a vine-choked parking lot.
 
-Serena knew this was no ordinary plant. Once a curious tendril ensnared her finger they bonded in that moment, understanding each other. She felt its sadness, its longing for its ancestral home and shared in it. She was also looking for her roots. The Anomaly felt like it knew her, but couldn't remember why.
+Serena knew this was no ordinary plant. Once a curious tendril ensnared her finger they bonded in that moment, understanding each other. She felt its sadness, its longing for its ancestral home and shared in it. She was also looking for her roots. The Anomaly felt like it knew her, but couldn't remember why. In reality the anomaly knew one of Serena's ancestors - who destroyed it and its home.
 
 The anomaly trusted Serena - trusting that she could help it remember its past. It willingly came to [[FOUNT]]. The product development team built it a special enclosure to thrive in.
 Over the years they have developed sustainable ways to distil its sap, fruits and leaves into potent products - powerful rejuvenating properties. But they have made no progress in finding it a new home.
