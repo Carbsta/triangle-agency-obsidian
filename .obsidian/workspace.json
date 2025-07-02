@@ -4,215 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e122331f0522f42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "261dfa78088a6504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trinity Square.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trinity Square"
-            }
-          },
-          {
-            "id": "0e994d96234bbb19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tryptik Café.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tryptik Café"
-            }
-          },
-          {
-            "id": "8be5d07106cde210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOUNT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "FOUNT"
-            }
-          },
-          {
-            "id": "a4b20cbeeecddbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOUNT Shop and Reception.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "FOUNT Shop and Reception"
-            }
-          },
-          {
-            "id": "af031235f247b0f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOUNT Clinic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "FOUNT Clinic"
-            }
-          },
-          {
-            "id": "0ee48489691537e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serena Evermore.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Serena Evermore"
-            }
-          },
-          {
-            "id": "49e15f013140f099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gregory Doppler (Jeffrey Fizeau).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gregory Doppler (Jeffrey Fizeau)"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "e2e63945b8fc6502",
         "type": "tabs",
         "children": [
-          {
-            "id": "7f751e442f442bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Passionfruit Anomaly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Passionfruit Anomaly"
-            }
-          },
           {
             "id": "7c060775dfc3bd98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Springs Eternal.md",
+                "file": "Time Loop anomaly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -227,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Springs Eternal"
-            }
-          },
-          {
-            "id": "bea1c573be25a477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Springs Eternal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Springs Eternal"
-            }
-          },
-          {
-            "id": "47dccc8d78deb4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reality Triggers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reality Triggers"
-            }
-          },
-          {
-            "id": "eeeb9927c819679f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kelb Cambrian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kelb Cambrian"
+              "title": "Time Loop anomaly"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -494,23 +221,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47dccc8d78deb4a7",
+  "active": "7c060775dfc3bd98",
   "lastOpenFiles": [
+    "Anomaly Ideas.md",
+    "Springs Eternal.md",
+    "Passionfruit Anomaly.md",
+    "Olive Huyhn.md",
     "FOUNT.md",
+    "FOUNT Shop and Reception.md",
+    "FOUNT Clinic.md",
+    "Reality Triggers.md",
     "Tryptik Café.md",
     "Gregory Doppler (Jeffrey Fizeau).md",
-    "FOUNT Shop and Reception.md",
-    "Springs Eternal.md",
-    "FOUNT Clinic.md",
     "Jay Hsieh.md",
-    "Passionfruit Anomaly.md",
-    "Reality Triggers.md",
     "Kelb Cambrian.md",
     "Trinity Square.md",
     "Serena Evermore.md",
-    "Olive Huyhn.md",
     "Time Loop anomaly.md",
-    "Anomaly Ideas.md",
     "Eevesijika.md",
     "Chivonne Inpu.md",
     "The Icebreaker - Downtime.md",

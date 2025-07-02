@@ -22,5 +22,8 @@ From inside the bubble the outside appears normal but static, as if time has ful
 
 Capturing or neutralising the anomaly will end the time loop, causing the current iteration to be the final iteration and removing the time bubble barrier - those who were frozen attempting to step out through the barrier will unfreeze and continue stepping out.
 
+### History
+Brought into existence by a couple who propose to each other - wanting to experience that moment again for the first time.
+
 ### Focus
-Déjà vu
+Déjà vu.  The desire to live forever. The desire to re-experience the perfect moment for the first time.
