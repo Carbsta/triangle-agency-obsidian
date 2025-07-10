@@ -20,7 +20,7 @@ Prompt players if they would like to spend any commendations on requisitions, or
 
 [[Kaeleigh Merel]] spending time with [[Mickey]] - increasing connection for the first time. What does Mickey need from K for a change?
 
-[[Destiny Summer]] spending time with [[Ice Cream Shop Boss - Randal Ballad]] - increasing connection for the first time. What does Randal want to congratulate Destiny about?
+[[Destiny Summer]] spending time with [[Randal Ballad - Ice Cream Shop Boss]] - increasing connection for the first time. What does Randal want to congratulate Destiny about?
 
 [[Orville Herring]] spending time with their [[Dream]] - dream sequence, Orville flying with a dark shape with many eyes, teeth and wings.
 [[Kelb Cambrian]] spending time with their [[Drain]] - Sat at a cocktail bar, alone, people come and go talking loudly, getting drinks - music booms. People here are hungry, and that feeds something at the back of your mind.

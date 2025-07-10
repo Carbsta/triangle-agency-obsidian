@@ -1,5 +1,9 @@
 #mission #springs-eternal
 
+Final chaos: 33
+Loose ends created: 2
+
+![[missionreportFlora.pdf]]
 ### Morning Meetings
 
 [[Orville Herring]] - You are catching up with Kirsty at Nottingham City library. She's excitedly sharing plans with you about a much needed spa day at the FOUNT medispa in town.

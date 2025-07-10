@@ -18,7 +18,7 @@ Take Kelb's ideas for a plan relevant to their Competency as a Barista.
 Do you use your powers to stop it? Either way, when thing settle down you catch a glimpse of why: the driver has frozen solid and is encased in a thin layer of ice. They are dead.
 +1
 
-[[Destiny Summer]] - You are working at the ice-cream store with your Boss [[Ice Cream Shop Boss - Randal Ballad]], its a blazingly hot day for April, unseasonably warm. And business is booming. Sweaty business men come stop by with their ties loosened, shoppers are stopping for refreshment and something to cool down.
+[[Destiny Summer]] - You are working at the ice-cream store with your Boss [[Randal Ballad - Ice Cream Shop Boss]], its a blazingly hot day for April, unseasonably warm. And business is booming. Sweaty business men come stop by with their ties loosened, shoppers are stopping for refreshment and something to cool down.
 Prompt for Boss: Destiny forgot to do something important for you last week, tell her what it is.
 
 ## Mission Briefing

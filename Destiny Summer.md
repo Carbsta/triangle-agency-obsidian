@@ -18,4 +18,4 @@ If you reveal your new identity or location to people who would recognise you, m
 
 [[Obsessed Roommate - Cathy]] - who is obsessed with the new you.
 
-[[Ice Cream Shop Boss - Randal Ballad]] - 
+[[Randal Ballad - Ice Cream Shop Boss]] - 

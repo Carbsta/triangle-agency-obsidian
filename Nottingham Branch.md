@@ -9,4 +9,6 @@ Sleek glass and concrete triangular office building with red accent features. Tr
 
 Tram line runs in the shadow of the rear face of the office building to the south, but tram goers aren’t privy to what goes on behind those tinted windows.
 
+[[Nottingham Branch Employees]]
+
 ![[Nottingham Branch Arial View.excalidraw]]

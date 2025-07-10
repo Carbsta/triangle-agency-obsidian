@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Loop anomaly.md",
+                "file": "Destiny Summer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Time Loop anomaly"
+              "title": "Destiny Summer"
+            }
+          },
+          {
+            "id": "57c909ff8bb919b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nottingham Branch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nottingham Branch"
+            }
+          },
+          {
+            "id": "a75a4d4a407408bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Randal Ballad - Ice Cream Shop Boss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Randal Ballad - Ice Cream Shop Boss"
+            }
+          },
+          {
+            "id": "16ba25fe2303a937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Icebreaker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Icebreaker"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -221,10 +294,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c060775dfc3bd98",
+  "active": "a75a4d4a407408bc",
   "lastOpenFiles": [
-    "Anomaly Ideas.md",
+    "Destiny Summer.md",
+    "Nottingham Branch Employees.md",
+    "Nottingham Branch.md",
+    "Triangle Agency Nottingham.md",
+    "Granny Clementine.md",
+    "Springs Eternal - Downtime.md",
+    "Stefan Betters.md",
     "Springs Eternal.md",
+    "Attachments/missionreportFlora.pdf",
+    "The Icebreaker.md",
+    "Ice Cream Anomaly.md",
+    "The Icebreaker - Downtime.md",
+    "Weather Events Record.md",
+    "Time Loop anomaly.md",
+    "Anomaly Ideas.md",
     "Passionfruit Anomaly.md",
     "Olive Huyhn.md",
     "FOUNT.md",
@@ -237,18 +323,6 @@
     "Kelb Cambrian.md",
     "Trinity Square.md",
     "Serena Evermore.md",
-    "Time Loop anomaly.md",
-    "Eevesijika.md",
-    "Chivonne Inpu.md",
-    "The Icebreaker - Downtime.md",
-    "Mickey.md",
-    "Orville Herring.md",
-    "The Icebreaker.md",
-    "Excalidraw/IceBreakerMissionReport.excalidraw.md",
-    "The Red Flag of Disrepute.md",
-    "Socks of Success.md",
-    "FOUNT Exterior.md",
-    "Quinn Wilmar.md",
     "Attachments/Pasted image 20250508092204.png",
     "Attachments/Pasted image 20250508092017.png",
     "Attachments/Pasted image 20250507225627.png",
