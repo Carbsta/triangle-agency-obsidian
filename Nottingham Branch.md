@@ -2,6 +2,7 @@
 location: 52.945357043752374, -1.1471453581902364
 tags:
   - agency
+  - nottingham-branch
 ---
 Situated not far from Unity Square, the HMRC offices and the Victorian red brick Nottingham Station.
 

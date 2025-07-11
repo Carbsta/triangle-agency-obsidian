@@ -3,6 +3,7 @@ tags:
   - anomaly
   - mission
   - the-icebreaker
+  - captured
 ---
 A humanoid form made of constantly swirling, half melted ice cream.
 

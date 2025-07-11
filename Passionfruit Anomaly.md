@@ -1,4 +1,4 @@
-#anomaly #springs-eternal 
+#anomaly #springs-eternal #captured
 ## Focus
 Humanity's desire to return to a time-- or self-- they have irrevocably lost.
 ## Domain

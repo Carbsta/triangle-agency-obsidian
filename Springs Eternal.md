@@ -1,7 +1,9 @@
-#mission #springs-eternal
+#mission #springs-eternal #completed 
 
 Final chaos: 33
 Loose ends created: 2
+
+[[Passionfruit Anomaly]] - captured
 
 ![[missionreportFlora.pdf]]
 ### Morning Meetings
