@@ -32,6 +32,102 @@
             }
           },
           {
+            "id": "5a3005152385acf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirelings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wirelings"
+            }
+          },
+          {
+            "id": "4ac922d3e0559b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baron Everly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Baron Everly"
+            }
+          },
+          {
+            "id": "5121f4d950fe4bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Branch Restrictions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Branch Restrictions"
+            }
+          },
+          {
+            "id": "96b113a8c46c50b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weather Events Record.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Weather Events Record"
+            }
+          },
+          {
             "id": "30a96d5f40608118",
             "type": "leaf",
             "state": {
@@ -104,35 +200,17 @@
             }
           },
           {
-            "id": "d10da110f17cac4e",
+            "id": "25a319ff7841e7ea",
             "type": "leaf",
             "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 19,
-                "mapCenter": {
-                  "lat": 52.95452119703135,
-                  "lng": -1.1374068663596584
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 1,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off"
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -325,9 +403,23 @@
   },
   "active": "30a96d5f40608118",
   "lastOpenFiles": [
-    "The Laundrocade.md",
     "Wirelings.md",
     "The Silence Anomaly.md",
+    "Dead Quiet.md",
+    "Obsessed Roommate - Cathy.md",
+    "Baron Everly.md",
+    "Branch Restrictions.md",
+    "Destiny Summer.md",
+    "Doris Roth.md",
+    "Randal Ballad - Ice Cream Shop Boss.md",
+    "Granny Clementine.md",
+    "Drew.md",
+    "Olivia Barns.md",
+    "Ruth Roth.md",
+    "Jo \"The Whizz\" Monroe.md",
+    "Detective Malcolm Cutter.md",
+    "Weather Events Record.md",
+    "The Laundrocade.md",
     "Attachments/Pasted image 20250711015000.png",
     "Sneinton Market.md",
     "Two Jacks.md",
@@ -336,22 +428,9 @@
     "Templates/Anomaly Profile.md",
     "Anomalies.md",
     "26 Bath Street.md",
-    "Dead Quiet.md",
     "Passionfruit Anomaly.md",
     "Anomaly Ideas.md",
     "Templates",
-    "33 The Friary, Lenton (Gregory Street).md",
-    "Ice Cream Anomaly.md",
-    "Springs Eternal.md",
-    "Field Agents.md",
-    "Tryptik Café.md",
-    "Nottingham Branch.md",
-    "Nottingham Branch Employees.md",
-    "Susie Neighbour.md",
-    "Stefan Betters.md",
-    "The Icebreaker.md",
-    "Randal Ballad - Ice Cream Shop Boss.md",
-    "Destiny Summer.md",
     "Attachments/missionreportFlora.pdf",
     "Attachments/Pasted image 20250508092204.png",
     "Attachments/Pasted image 20250508092017.png",

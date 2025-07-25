@@ -6,13 +6,17 @@ To eliminate any source of noise made during the night in [[Sneinton Market]].
 ## Domain
 The [[sound-proofed basement]] of [[26 Bath Street]] - Kaye's terraced accommodation.
 ## Appearance
-A thin and slender cage of bones. Like the delicate bones of the ear, haphazardly arranging themselves into the human form. From afar appears like a long-limbed skeleton.
-A white, featureless head perched on-top of a honeycomb body which is large enough to encase a human within its abdomen. Inside its body no sound can exist.
-Its arms and legs have no joints, but hang limply loose from the body like old telephone wires.
-Doesn't appear to walk when upright, just appears closer.
-On all fours it will bound forward like a wolf - its wiry limbs will elongate and shrink as they hit ground.
+- Thin and slender cage of bones. 
+- Like the delicate bones of the ear, haphazardly arranging themselves into the human form. 
+- From afar appears like a long-limbed skeleton.
+- White, featureless head perched on-top of a honeycomb body
+- large enough to encase a human within its abdomen. 
+- Inside its body no sound can exist.
+- Arms and legs have no joints, but hang limply loose from the body like old telephone wires.
+- Doesn't appear to walk when upright, just appears closer.
+- On all fours it will bound forward like a wolf - its wiry limbs will elongate and shrink as they hit ground.
 ## Current Situation
-The anomaly started by disrupting and silencing technological sources of sound - using ambient chaos to create [[Wirelings]] from the wires of the objects it destroyed. **At the start of the investigation 10 [[Wirelings]] are active around [[Sneinton Market]].**
+The anomaly started by disrupting and silencing technological sources of sound - using ambient chaos to create [[Wirelings]] from the wires of the objects it destroyed. **At the start of the investigation --  9 [[Wirelings]] are active around [[Sneinton Market]].**
 It then escalated to remove noise from the source by trapping the people making the noise inside its body. Purging all sound from them, including their heartbeats. Victims die screaming, but no one can hear them.
 It has killed three members of the [[Sneinton Market]] community so far:
 - [[Billie Lee]] (She/Her) - she was hammering at a metal sculpture installation.
