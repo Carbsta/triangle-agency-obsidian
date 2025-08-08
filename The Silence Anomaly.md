@@ -1,4 +1,6 @@
 #anomaly #dead-quiet
+
+3 / 17
 ## Focus
 [[Kaye Renfield]]'s serenity (peace and quiet) achieved through control.
 ## Impulse

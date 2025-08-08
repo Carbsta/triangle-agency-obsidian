@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8e09d0b2f1e2cb3c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-25 23.06.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-25 23.06.27.excalidraw"
+            }
+          },
+          {
             "id": "5a3005152385acf0",
             "type": "leaf",
             "state": {
@@ -209,8 +221,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,12 +378,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b11e1c49874077e4",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "73108cd41e71b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "b11e1c49874077e4",
+            "id": "b023c6d293645133",
             "type": "leaf",
             "state": {
               "type": "PROGRESS_CLOCKS_VIEW",
@@ -401,14 +432,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "30a96d5f40608118",
+  "active": "80d4c837842f266f",
   "lastOpenFiles": [
-    "Wirelings.md",
-    "The Silence Anomaly.md",
-    "Dead Quiet.md",
-    "Obsessed Roommate - Cathy.md",
     "Baron Everly.md",
+    "Wirelings.md",
+    "Dead Quiet.md",
+    "Excalidraw/Drawing 2025-07-25 23.06.27.excalidraw.md",
+    "Attachments/Drawing 2025-07-25 23.05.43.excalidraw.md",
+    "Attachments/Mission report - WIRETAP.pdf",
+    "The Silence Anomaly.md",
+    "Weather Events Record.md",
     "Branch Restrictions.md",
+    "The Laundrocade.md",
+    "26 Bath Street.md",
+    "The Station.md",
+    "Obsessed Roommate - Cathy.md",
     "Destiny Summer.md",
     "Doris Roth.md",
     "Randal Ballad - Ice Cream Shop Boss.md",
@@ -418,18 +456,12 @@
     "Ruth Roth.md",
     "Jo \"The Whizz\" Monroe.md",
     "Detective Malcolm Cutter.md",
-    "Weather Events Record.md",
-    "The Laundrocade.md",
     "Attachments/Pasted image 20250711015000.png",
     "Sneinton Market.md",
     "Two Jacks.md",
     "Chaos.md",
     "Disruptive.md",
     "Templates/Anomaly Profile.md",
-    "Anomalies.md",
-    "26 Bath Street.md",
-    "Passionfruit Anomaly.md",
-    "Anomaly Ideas.md",
     "Templates",
     "Attachments/missionreportFlora.pdf",
     "Attachments/Pasted image 20250508092204.png",

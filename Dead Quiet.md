@@ -2,6 +2,8 @@
 
 Anomaly Retrieval: [[The Silence Anomaly]]
 
+![[Drawing 2025-07-25 23.06.27.excalidraw]]
+
 Starting [[Chaos]]: 5
 
 ![[Weather Events Record#4a.]] 
@@ -28,7 +30,5 @@ You have been rushing out content. What are you working on atm? A pager goes off
 **Agents will need to gain their trust**
 
 Note - Concerned Citizens of Sneinton. Can be found around the market: laundrocade, two jacks, 
-
-
 
 
