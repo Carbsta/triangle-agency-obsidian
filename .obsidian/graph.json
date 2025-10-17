@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#player-character OR tag:#relationship OR tag:#all-the-time-in-the-world",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9924510409714246,
-  "close": true
+  "scale": 0.6616340273142816,
+  "close": false
 }

@@ -1,4 +1,4 @@
-#player-character #agency 
+#agency 
 He/They
 
 Dream / Creature / R&D

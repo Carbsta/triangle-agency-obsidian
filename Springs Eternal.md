@@ -1,7 +1,10 @@
 #mission #springs-eternal #completed 
 
 Final chaos: 33
-Loose ends created: 2
+Loose ends created: 29
+
+[[Dr. Lennox]] 1 x 5 x 10 x 1 x 0.5 = 25
+Aubry and Juliania: 2 x 2 x 2 x 0.5 = 4
 
 [[Passionfruit Anomaly]] - captured
 

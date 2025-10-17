@@ -1,29 +1,34 @@
-#anomaly 
+#anomaly #all-the-time-in-the-world
 
-"Time bubble" - area in Nottingham that is caught in a local time loop, anyone entering the area gets trapped in the time loop. Mundane beings don't consciously remember their experiences in the time bubble, but do experience strange feelings of familiarity, deja vu, etc. Their memories are repressed, becoming aware of the timeloop and remembering previous iterations would certainly create loose ends.
+## Focus
+[[Vera Lynn]] and [[Nadia Winters]] continued enjoyment of the best day of their lives, together, forever.
+Anomaly is feeding off their continued affirmations to eachother made at various points in the day, prompted by their experiences of "The Golden Timeline." It wants to ensure they experience the day the same way to prompt them to express their feelings of happiness and affection for eachother.
 
-Agents keep their memories of their previous iterations in the time loop thanks to the external perspective provided by the Agency's TTRPG Initiative as their table selves are not affected by the time loop.
+## Impulse
+To maintain "[[The Golden Timeline]]." This is the sequence of events Vera and Nadia go through during their day, that makes it so special to them.
+This is complicated by new people slowly entering the time loop, making each iteration harder to maintain. Any occurrences that aren't part of Vera and Nadia's golden timeline can be safely discarded or sacrificed. The anomaly will resist changes the agents or anyone else tries to make to the golden timeline.
+The anomaly can resist changes by masking certain events by playing a previous iteration over the top, to potentially dissonant results. It can also create convincing illusions or make puppets of people to play the parts of the "supporting cast" - eventually everyone except Vera and Nadia would be replaced by its automata.
 
-The agency is not able to return deceased agents to the break room while the agents are in the time bubble - however when the loop resets agents are reverted to their state upon entering the loop.
+## Domain
+Originally just the attic of [[Cobden Chambers and Cobden Place]] - where Naida and Vera finish their day by listening to "We Have All The Time in the World" and brought the anomaly into existence. Rapidly expanded out beyond the courtyard into the surrounding streets to maintain the events of the timeloop.
 
-The agency is still able to alter reality within the time bubble when Agents use their Ask the Agency ability as normal - however the causality chain becomes baked into the state of the time loop and the effects of the new reality apply retrocausally in all past and future iterations of the time loop. This means that if agents ask the agency for something in their current iteration, they will observe the causality chain occuring in all future iterations they experience. Chaos generated persists between loops and is not reset, likewise agents don't regain any spent Quality Assurances - so the situation will gradually become more dangerous to the agents as they run out of resources and experience burnout.
+Domain cannot be left once entered, time speeds up around people leaving the bubble until they freeze and the loop ends, resetting them to where they entered.
+Agents must exhaust a QA at the start of each subsequent loop.
 
-Any of the Agents' Relationships that get stuck in the time bubble will not remember their experiences from previous iterations of the time loop, only the final iteration.
+## History
+[[Vera Lynn]] and [[Nadia Winters]] have been a couple for 20 years now, when they met back at UoN while studying art and design and economics respectively. Not long after graduation they started a small business at [[Cobden Chambers and Cobden Place]] - Cobden Place, an art studio, vintage store and cafe that hosts art events and sales. Other stores at Cobden Chambers sell vintage furniture, a clothing boutique, and a coffee and chocolate shop. Approaching their 20th anniversary, they finally decide to get married and decide to host a small ceremony and party at their store - celebrating the dream they built together.
+Despite their disagreements, they are mature communicators and genuinely deeply love each other. At the end of the day they retreat to their comfy, fire place attic, where they have a small modest record collection and listen to their favourite music. As they listen to Louie Armstrong's "We Have All The Time In the World" and kiss, Vera confides "This has been the greatest day of my life, thank you - I wish we could relieve it together forever." and Nadia simply responds. "We will." This desire manifests in anomaly assembling out of the ripples of love and good feeling that had been forming around them, manifesting within their sound system before rapidly expanding its domain to Pelham street, Thurland Street and George Street.
 
-The time bubble spans a physical location in Nottingham, and is de-synced from the flow of time happening outside of the bubble. If the time loop is ended anyone inside the bubble will only have remembered experiencing the final iteration of the loop, and so may be disoriented by the passage of time outside of the bubble - the experience will be more jarring the greater the lag between real elapsed time and experienced time, so will create more Loose Ends the more iterations the time loop persists for, and the more people are captured by it.
+Anomaly Loops Sunday 14th of September. It is now Wednesday the 17th. Agency notice the third loop.
 
-The anomaly can gradually expand the physical border of the time bubble, trapping a wider area of Nottingham within the loop.
+## Powers
 
-Although the time loop has a fixed total length, anyone who enters the bubble part way into the loop will experience a shorter loop beginning at their time of entry.
+9 Chaos: Remix. A small section of time (90 seconds) from a previous loop is pasted over the same section of time from the current loop, causing an illusion and outcome as if the events proceeded the way they did before. There is only an discordant afterimage remaining of the replaced events happening as they would have otherwise.
 
-The time bubble is difficult to perceive from the outside - looking down the street appears the same as before - except where the street enters the bubble causes people who pass through to appear to stop moving, as if standing still, and looking away and back again at someone who has passed through causes them to vanish entirely - this is independent for each observer. Things that would be moving like leaves on trees appear frozen still when looking through the barrier.
+18 Chaos: Remaster. A Mundane life is hijacked, regardless of defences. Almost invisible golden threads allow the anomaly total control over the target until released. This effect cannot be stopped, altered or interrupted by any other effect.
 
-From inside the bubble the outside appears normal but static, as if time has fully stopped. As you get closer to the barrier from the inside you begin slowing down exponentially until time would be stopped completely if you touched the barrier - as you are slowed down, if you look back into the bubble time would appear to be passing exponentially faster until the loop resets and you return to stepping through the barrier. The agents should find some people who appear to have been attempting to leave the bubble and are stuck there like insects preserved in resin.
+## Appearance
 
-Capturing or neutralising the anomaly will end the time loop, causing the current iteration to be the final iteration and removing the time bubble barrier - those who were frozen attempting to step out through the barrier will unfreeze and continue stepping out.
+Small spider made of black vinyl and gold, spinning a fine golden thread
 
-### History
-Brought into existence by a couple who propose to each other - wanting to experience that moment again for the first time.
-
-### Focus
-Déjà vu.  The desire to live forever. The desire to re-experience the perfect moment for the first time.
+[[Time Loop Anomaly sketchpad]]

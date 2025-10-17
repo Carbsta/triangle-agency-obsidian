@@ -6,14 +6,43 @@
       {
         "id": "38b438dc88cc5833",
         "type": "tabs",
+        "dimension": 57.569296375266525,
         "children": [
           {
-            "id": "80d4c837842f266f",
+            "id": "b44c86fdb5edb4e2",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 19,
+                "mapCenter": {
+                  "lat": 52.95420180509219,
+                  "lng": -1.1459872126579287
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off"
+              },
+              "icon": "map-pin",
+              "title": "Interactive Map View"
+            }
+          },
+          {
+            "id": "5f199e0fffd1d5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dead Quiet.md",
+                "file": "Cobden Chambers and Cobden Place.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,28 +57,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dead Quiet"
+              "title": "Cobden Chambers and Cobden Place"
             }
           },
           {
-            "id": "8e09d0b2f1e2cb3c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-25 23.06.27.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-25 23.06.27.excalidraw"
-            }
-          },
-          {
-            "id": "5a3005152385acf0",
+            "id": "2aae3530c53ff97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirelings.md",
+                "file": "Problems and Clues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,16 +81,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wirelings"
+              "title": "Problems and Clues"
             }
           },
           {
-            "id": "4ac922d3e0559b58",
+            "id": "be5d9246d490968c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baron Everly.md",
+                "file": "Nadia Winters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,16 +105,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Baron Everly"
+              "title": "Nadia Winters"
             }
           },
           {
-            "id": "5121f4d950fe4bf7",
+            "id": "62da4fcbddd90b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branch Restrictions.md",
+                "file": "Vera Lynn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,16 +129,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Branch Restrictions"
+              "title": "Vera Lynn"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "250951c0af907032",
+        "type": "tabs",
+        "dimension": 42.430703624733475,
+        "children": [
           {
-            "id": "96b113a8c46c50b2",
+            "id": "827bf6c83024aa5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weather Events Record.md",
+                "file": "The Golden Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,89 +161,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weather Events Record"
+              "title": "The Golden Timeline"
             }
           },
           {
-            "id": "30a96d5f40608118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Silence Anomaly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Silence Anomaly"
-            }
-          },
-          {
-            "id": "bc19e1a81855a984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Laundrocade.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Laundrocade"
-            }
-          },
-          {
-            "id": "bacc2c13c08bde34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirelings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wirelings"
-            }
-          },
-          {
-            "id": "25a319ff7841e7ea",
+            "id": "76342e148dfa7f2c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "840305e9bbd980a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All The Time in the World.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "All The Time in the World"
+            }
+          },
+          {
+            "id": "11cc7b47d821a53d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Loop anomaly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Time Loop anomaly"
             }
           }
         ]
@@ -253,7 +254,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anomaly",
+                "query": "tag:all-the-time-in-the-world",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -274,12 +275,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -421,6 +422,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -432,36 +434,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80d4c837842f266f",
+  "active": "827bf6c83024aa5f",
   "lastOpenFiles": [
-    "Baron Everly.md",
-    "Wirelings.md",
-    "Dead Quiet.md",
-    "Excalidraw/Drawing 2025-07-25 23.06.27.excalidraw.md",
-    "Attachments/Drawing 2025-07-25 23.05.43.excalidraw.md",
-    "Attachments/Mission report - WIRETAP.pdf",
-    "The Silence Anomaly.md",
-    "Weather Events Record.md",
-    "Branch Restrictions.md",
-    "The Laundrocade.md",
-    "26 Bath Street.md",
-    "The Station.md",
-    "Obsessed Roommate - Cathy.md",
-    "Destiny Summer.md",
-    "Doris Roth.md",
+    "Time Loop anomaly.md",
+    "All The Time in the World.md",
+    "Problems and Clues.md",
+    "The Golden Timeline.md",
+    "Cobden Chambers and Cobden Place.md",
+    "Vera Lynn.md",
+    "Nadia Winters.md",
+    "Attachments/Pasted image 20251010200741.png",
     "Randal Ballad - Ice Cream Shop Boss.md",
-    "Granny Clementine.md",
-    "Drew.md",
     "Olivia Barns.md",
-    "Ruth Roth.md",
+    "Gregory.md",
+    "Orville Herring.md",
     "Jo \"The Whizz\" Monroe.md",
-    "Detective Malcolm Cutter.md",
+    "Time Loop Anomaly sketchpad.md",
+    "Weather Events Record.md",
+    "Nottingham Branch Employees.md",
+    "Susie Neighbour.md",
+    "Janitor.md",
+    "Avery Hopkins.md",
+    "Hazmat Joe Omelas.md",
+    "Janitor Ogasawara Okichi.md",
+    "Regional Manager Trina Lenore.md",
+    "Derek - Gravedigger - Team Delta.md",
+    "Nottingham Branch.md",
+    "Triangle Agency Nottingham.md",
+    "().md",
+    "Field Agents.md",
+    "Attachments/Mission report - WIRETAP.pdf",
     "Attachments/Pasted image 20250711015000.png",
-    "Sneinton Market.md",
-    "Two Jacks.md",
-    "Chaos.md",
-    "Disruptive.md",
-    "Templates/Anomaly Profile.md",
     "Templates",
     "Attachments/missionreportFlora.pdf",
     "Attachments/Pasted image 20250508092204.png",
@@ -476,7 +479,6 @@
     "Attachments/missionreport.png",
     "Excalidraw",
     "Attachments/IMG_0486.jpeg",
-    "Attachments",
-    "Pasted image 20250317165035.png"
+    "Attachments"
   ]
 }

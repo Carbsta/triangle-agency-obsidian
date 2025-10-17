@@ -3,7 +3,13 @@
 An [[Ice Cream Anomaly]] feeding off the feeling of relief from the heat it gives people, right before they freeze to death, inhabiting a [[Mysterious Ice Cream Truck]] that's going to be a hip cool [[ice-cream pool party]] at [[33 Chilwell Road, Beeston - SORA Cafe]].
 
 Current Chaos `counter 13`
-[[Icebreaker - Loose Ends]] - 9
+[[Icebreaker - Loose Ends]] - 19
+
+revised loose end count.
+
+Pool goers: 5 x 5 x 0.5 x 0.5 = 6 Loose Ends
+Ice Sculptor [[Kubra Omowale]]: 1 x 7 x 1 x 0.5 = 4 Loose Ends
+SORA Grill Staff: 3 x 3 x 2 x 0.5 = 9 Loose Ends
 
 ![[IceBreakerMissionReport.excalidraw|700]]
 

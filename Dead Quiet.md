@@ -2,7 +2,14 @@
 
 Anomaly Retrieval: [[The Silence Anomaly]]
 
-![[Drawing 2025-07-25 23.06.27.excalidraw]]
+[[Loose Ends]] generated: 13
+
+Sharif: 1 x 3 x 0.5 = 2
+Jackie: 1 x 5 x 0.5 = 3
+Tyran: 1 x 2 x 0.5 = 1
+Student Crowd: 9 x 3 x 0.5 x 0.5 = 5
+
+![[Drawing 2025-07-25 23.06.27.excalidraw|700]]
 
 Starting [[Chaos]]: 5
 
