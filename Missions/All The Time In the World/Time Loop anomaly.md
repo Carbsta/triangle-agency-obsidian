@@ -1,7 +1,8 @@
 #anomaly #all-the-time-in-the-world
 
 ## Focus
-[[Vera Lynn]] and [[Nadia Winters]] continued enjoyment of the best day of their lives, together, forever.
+[[Vera Lynn]] and [[Nadia Winters]] continued happiness, together, forever.
+
 Anomaly is feeding off their continued affirmations to eachother made at various points in the day, prompted by their experiences of "The Golden Timeline." It wants to ensure they experience the day the same way to prompt them to express their feelings of happiness and affection for eachother.
 
 ## Impulse

@@ -1,4 +1,4 @@
-Branch loose end count: 58
+Branch loose end count: `counter 41`
 
 Folks who have found out about anomalies and have started paying attention!
 
@@ -17,5 +17,9 @@ Formula for generating loose end counts:
 
 Outside of missions:
 Ruth eliminating some kids bikes: 3 loose ends. Kids disorganised, no evidence, unlikely to spread further.
+
+[[The Cleanup One]] - down to 25!
+
+[[All The Time in the World]] - +16, to 41
 
 

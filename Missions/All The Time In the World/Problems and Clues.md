@@ -30,3 +30,4 @@ Moondust - saw Destiny at the dinner party.
 
 ![[Pasted image 20251010200741.png]]
 
+The Fox Paper Man - Harold. Seek retribution against Ruth

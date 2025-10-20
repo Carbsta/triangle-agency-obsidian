@@ -1,4 +1,6 @@
-#springs-eternal
+#springs-eternal #deceased
+
+DECEASED
 
 Her Face is oddly familiar. Light brown hair and irises, smooth skin and faint freckles. Like a tranquil enigma. She's wearing a unisex jumpsuit that is tailored just so.
 

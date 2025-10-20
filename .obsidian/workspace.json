@@ -4,222 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38b438dc88cc5833",
+        "id": "c44d1afc50c550ab",
         "type": "tabs",
-        "dimension": 57.569296375266525,
         "children": [
           {
-            "id": "b44c86fdb5edb4e2",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 19,
-                "mapCenter": {
-                  "lat": 52.95420180509219,
-                  "lng": -1.1459872126579287
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off"
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
-            }
-          },
-          {
-            "id": "5f199e0fffd1d5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cobden Chambers and Cobden Place.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cobden Chambers and Cobden Place"
-            }
-          },
-          {
-            "id": "2aae3530c53ff97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems and Clues.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Problems and Clues"
-            }
-          },
-          {
-            "id": "be5d9246d490968c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nadia Winters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nadia Winters"
-            }
-          },
-          {
-            "id": "62da4fcbddd90b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vera Lynn.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vera Lynn"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "250951c0af907032",
-        "type": "tabs",
-        "dimension": 42.430703624733475,
-        "children": [
-          {
-            "id": "827bf6c83024aa5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Golden Timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Golden Timeline"
-            }
-          },
-          {
-            "id": "76342e148dfa7f2c",
+            "id": "cf2930d861ca713f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "840305e9bbd980a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All The Time in the World.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "All The Time in the World"
-            }
-          },
-          {
-            "id": "11cc7b47d821a53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Loop anomaly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Time Loop anomaly"
             }
           }
         ]
@@ -275,12 +70,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 293.5
   },
   "right": {
     "id": "847fa648e9e33dd5",
@@ -434,51 +228,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "827bf6c83024aa5f",
+  "active": "cf2930d861ca713f",
   "lastOpenFiles": [
-    "Time Loop anomaly.md",
-    "All The Time in the World.md",
-    "Problems and Clues.md",
-    "The Golden Timeline.md",
-    "Cobden Chambers and Cobden Place.md",
-    "Vera Lynn.md",
-    "Nadia Winters.md",
-    "Attachments/Pasted image 20251010200741.png",
-    "Randal Ballad - Ice Cream Shop Boss.md",
-    "Olivia Barns.md",
-    "Gregory.md",
-    "Orville Herring.md",
-    "Jo \"The Whizz\" Monroe.md",
-    "Time Loop Anomaly sketchpad.md",
+    "Obsidian/Templates/Anomaly Profile.md",
+    "Obsidian/Obsidian Tips.md",
+    "Formatting.md",
     "Weather Events Record.md",
-    "Nottingham Branch Employees.md",
-    "Susie Neighbour.md",
-    "Janitor.md",
-    "Avery Hopkins.md",
-    "Hazmat Joe Omelas.md",
-    "Janitor Ogasawara Okichi.md",
-    "Regional Manager Trina Lenore.md",
-    "Derek - Gravedigger - Team Delta.md",
-    "Nottingham Branch.md",
     "Triangle Agency Nottingham.md",
+    "Loose Ends.md",
+    "Palette Grid.md",
+    "Agents/Reality Triggers.md",
+    "Nottingham Agency/The Red Flag of Disrepute.md",
+    "Nottingham Agency/Socks of Success.md",
+    "Missions/Murder at Gruntley Manor",
+    "Nottingham.md",
+    "Anomaly Ideas/Disruptive.md",
+    "Chaos.md",
+    "Anomaly Ideas/Existential Crisis Anomaly.md",
+    "Anomaly Ideas/Anomaly Ideas.md",
+    "Anomaly Ideas/Anomalies.md",
+    "Relationships/33 The Friary, Lenton (Gregory Street).md",
+    "Relationships/Downwards Facing Dawg.md",
+    "Missions/Dead Quiet/Wirelings.md",
+    "Whisper.md",
+    "Missions/All The Time In the World/Problems and Clues.md",
+    "Missions.md",
+    "Anomaly Ideas",
+    "Missions/Dead Quiet/Sneinton Market.md",
     "().md",
-    "Field Agents.md",
-    "Attachments/Mission report - WIRETAP.pdf",
-    "Attachments/Pasted image 20250711015000.png",
-    "Templates",
-    "Attachments/missionreportFlora.pdf",
-    "Attachments/Pasted image 20250508092204.png",
-    "Attachments/Pasted image 20250508092017.png",
-    "Attachments/Pasted image 20250507225627.png",
-    "Attachments/Pasted image 20250507220041.png",
-    "Attachments/missionreport.pdf",
-    "Attachments/Kaeleigh_Headshot_Coloured.png",
+    "Missions/Springs Eternal/Serena Evermore.md",
+    "Relationships/Drew.md",
+    "Nottingham Agency",
+    "Obsidian",
+    "Missions",
+    "Agents",
+    "Relationships",
+    "Missions/The Icebreaker",
+    "Missions/The Cleanup One",
+    "Missions/Dead Quiet",
+    "Obsidian/Attachments/Pasted image 20251010200741.png",
+    "Obsidian/Attachments/Pasted image 20250711015000.png",
+    "Obsidian/Attachments/Pasted image 20250508092204.png",
+    "Obsidian/Attachments/Pasted image 20250508092017.png",
+    "Obsidian/Attachments/Pasted image 20250507225627.png",
+    "Obsidian/Attachments/Pasted image 20250507220041.png",
+    "Obsidian/Attachments/Kaeleigh_Headshot_Coloured.png",
     "Untitled.canvas",
-    "Attachments/missionreport 1.pdf",
-    "Attachments/Pasted image 20250421133206.png",
+    "Obsidian/Attachments/Pasted image 20250421133206.png",
     "Attachments/missionreport.png",
-    "Excalidraw",
-    "Attachments/IMG_0486.jpeg",
-    "Attachments"
+    "Obsidian/Attachments/IMG_0486.jpeg"
   ]
 }

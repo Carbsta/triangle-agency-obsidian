@@ -7,6 +7,7 @@
 12:30 - The Agents enter the loop.
 
 13:00 - The Processional
+- BOG OFF FOOD AND DRINK ATA
 
 13:10 - Opening Remarks
 
@@ -30,6 +31,7 @@
 15:20 - BUG SPRAY - AtA
 
 18:00 - evening performance at Peggy's Skylight - Jose Almarcha Flamenco Trio
+- CAR ALARM ATA
 
 21:00 - Back home at Cobden Place, head up to the attic
 
