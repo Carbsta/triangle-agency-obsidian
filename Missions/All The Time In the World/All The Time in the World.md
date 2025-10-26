@@ -1,5 +1,13 @@
 #all-the-time-in-the-world #mission 
 
+Final Grade: A
+MVP [[Kelb Cambrian]]
+Probation [[Ruth Roth]]
+Participation [[Destiny Summer]] and [[Kaeleigh Merel]]
+
+![[REPORT_ ALL THE TIME IN THE WORLD.pdf|700]]
+
+
 Lingering consequences of previous missions:
 
 Various missing people, include a shrine left by a family in one of the business at [[Cobden Chambers and Cobden Place]].

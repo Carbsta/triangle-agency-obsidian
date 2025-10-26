@@ -1,4 +1,4 @@
-Branch loose end count: `counter 41`
+Branch loose end count: `counter 39`
 
 Folks who have found out about anomalies and have started paying attention!
 
@@ -21,5 +21,7 @@ Ruth eliminating some kids bikes: 3 loose ends. Kids disorganised, no evidence, 
 [[The Cleanup One]] - down to 25!
 
 [[All The Time in the World]] - +16, to 41
+
+2 removed by the weather
 
 

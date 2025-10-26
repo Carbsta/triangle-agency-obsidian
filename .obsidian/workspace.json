@@ -11,10 +11,24 @@
             "id": "cf2930d861ca713f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Missions/Murder at Gruntley Manor/Murder at Gruntley Manor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Murder at Gruntley Manor"
             }
           }
         ]
@@ -230,12 +244,18 @@
   },
   "active": "cf2930d861ca713f",
   "lastOpenFiles": [
+    "Loose Ends.md",
+    "Missions/Murder at Gruntley Manor/Murder at Gruntley Manor.md",
+    "Missions/All The Time In the World/All The Time in the World.md",
+    "Missions/All The Time In the World/Time Loop anomaly.md",
+    "Missions/Dead Quiet/Dead Quiet.md",
+    "Attachments/REPORT_ ALL THE TIME IN THE WORLD.pdf",
+    "Attachments",
     "Obsidian/Templates/Anomaly Profile.md",
     "Obsidian/Obsidian Tips.md",
     "Formatting.md",
     "Weather Events Record.md",
     "Triangle Agency Nottingham.md",
-    "Loose Ends.md",
     "Palette Grid.md",
     "Agents/Reality Triggers.md",
     "Nottingham Agency/The Red Flag of Disrepute.md",
@@ -254,18 +274,12 @@
     "Missions/All The Time In the World/Problems and Clues.md",
     "Missions.md",
     "Anomaly Ideas",
-    "Missions/Dead Quiet/Sneinton Market.md",
-    "().md",
-    "Missions/Springs Eternal/Serena Evermore.md",
-    "Relationships/Drew.md",
     "Nottingham Agency",
     "Obsidian",
     "Missions",
     "Agents",
     "Relationships",
     "Missions/The Icebreaker",
-    "Missions/The Cleanup One",
-    "Missions/Dead Quiet",
     "Obsidian/Attachments/Pasted image 20251010200741.png",
     "Obsidian/Attachments/Pasted image 20250711015000.png",
     "Obsidian/Attachments/Pasted image 20250508092204.png",
