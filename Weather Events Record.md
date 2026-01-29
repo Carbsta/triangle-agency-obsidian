@@ -14,3 +14,9 @@ Mission 5 [[All The Time in the World]]:
 Mission 6 [[Murder at Gruntley Manor]]:
 
 5b, 10a, 6 (-3 loose ends)
+
+Mission 7: [[Hobby Lobby]]
+17a 10b 14c
+
+Mission 8:
+1b - pouring rain
